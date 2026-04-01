@@ -2245,7 +2245,6 @@
 			(embedded_fonts no)
 		)
 	)
-<<<<<<< HEAD
 	(junction
 		(at 101.6 118.11)
 		(diameter 0)
@@ -2267,125 +2266,32 @@
 	(wire
 		(pts
 			(xy 101.6 115.57) (xy 104.14 115.57)
-=======
-	(text "EL QUE LO LEA ES GAY"
-		(exclude_from_sim no)
-		(at 173.228 110.236 0)
-		(effects
-			(font
-				(size 25.4 25.4)
-			)
-		)
-		(uuid "c9131174-4e52-4e7f-ac84-4020d0fed5bc")
-	)
-	(junction
-		(at 113.03 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22253727-22e1-45fb-b11b-d5c411424266")
-	)
-	(junction
-		(at 113.03 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c30e48d-7577-4b47-bcf4-3b682418891c")
-	)
-	(junction
-		(at 113.03 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b2140706-4adc-4882-ab4d-1cde9cb7c193")
-	)
-	(junction
-		(at 113.03 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b986c076-44a4-4db0-9375-01841c533940")
-	)
-	(junction
-		(at 113.03 176.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd308396-4ce4-480f-889a-f7087fb74082")
-	)
-	(junction
-		(at 113.03 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "beeccc6b-1989-4012-a90e-41777288af59")
-	)
-	(junction
-		(at 113.03 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf0ef8d0-9b40-40ce-a314-43091c8daa96")
-	)
-	(junction
-		(at 113.03 171.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8a95bf7-d631-49b2-b986-3558e061d9e2")
-	)
-	(wire
-		(pts
-			(xy 113.03 176.53) (xy 113.03 179.07)
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-<<<<<<< HEAD
 		(uuid "05303ff0-e933-4d62-b3c1-90fe1f3f04a5")
 	)
 	(wire
 		(pts
 			(xy 104.14 120.65) (xy 101.6 120.65)
-=======
-		(uuid "082bdb66-f03e-4193-9ffc-31f597936618")
-	)
-	(wire
-		(pts
-			(xy 113.03 173.99) (xy 113.03 176.53)
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-<<<<<<< HEAD
 		(uuid "269fe894-86ec-4c0c-87e3-bb37f869445b")
 	)
 	(wire
 		(pts
 			(xy 101.6 113.03) (xy 101.6 115.57)
-=======
-		(uuid "0d305660-58e3-47f3-9799-ee81a1e0aa34")
-	)
-	(wire
-		(pts
-			(xy 113.03 168.91) (xy 113.03 171.45)
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-<<<<<<< HEAD
 		(uuid "2f26c6e0-1bcf-48f8-b8e4-8574d48858b4")
-=======
-		(uuid "16174ffd-5f89-4f54-aedf-750cb65f1259")
-	)
-	(wire
-		(pts
-			(xy 113.03 148.59) (xy 113.03 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a0bb859-9c59-40ee-a4ce-e83fc51ef01a")
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 	)
 	(wire
 		(pts
@@ -2469,77 +2375,33 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 104.14 118.11) (xy 101.6 118.11)
-=======
-			(xy 113.03 163.83) (xy 113.03 166.37)
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-<<<<<<< HEAD
 		(uuid "9a89844f-b355-4913-b697-bea75fdd513b")
 	)
 	(wire
 		(pts
 			(xy 101.6 118.11) (xy 101.6 115.57)
-=======
-		(uuid "8a91cf05-2708-4d99-aa3d-d99533c78814")
-	)
-	(wire
-		(pts
-			(xy 113.03 161.29) (xy 113.03 163.83)
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-<<<<<<< HEAD
 		(uuid "9fdbb27a-c24f-4bf0-ad89-738f68afa70d")
 	)
 	(wire
 		(pts
 			(xy 101.6 120.65) (xy 101.6 123.19)
-=======
-		(uuid "91945b70-88b4-42f3-b57a-97ec9c98e6d4")
-	)
-	(wire
-		(pts
-			(xy 113.03 156.21) (xy 113.03 158.75)
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-<<<<<<< HEAD
 		(uuid "bdeac9bd-e12b-4d4c-9315-0b615997d2cc")
-=======
-		(uuid "98a38a91-d89c-4007-9c10-45a5236c2d1d")
-	)
-	(wire
-		(pts
-			(xy 113.03 166.37) (xy 113.03 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b56387bd-4717-4843-b574-f1336907912e")
-	)
-	(wire
-		(pts
-			(xy 113.03 171.45) (xy 113.03 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bef6b0cd-e429-455d-9579-c69304df32da")
->>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 	)
 	(wire
 		(pts
