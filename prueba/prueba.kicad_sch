@@ -2245,6 +2245,7 @@
 			(embedded_fonts no)
 		)
 	)
+<<<<<<< HEAD
 	(junction
 		(at 101.6 118.11)
 		(diameter 0)
@@ -2266,32 +2267,125 @@
 	(wire
 		(pts
 			(xy 101.6 115.57) (xy 104.14 115.57)
+=======
+	(text "EL QUE LO LEA ES GAY"
+		(exclude_from_sim no)
+		(at 173.228 110.236 0)
+		(effects
+			(font
+				(size 25.4 25.4)
+			)
+		)
+		(uuid "c9131174-4e52-4e7f-ac84-4020d0fed5bc")
+	)
+	(junction
+		(at 113.03 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22253727-22e1-45fb-b11b-d5c411424266")
+	)
+	(junction
+		(at 113.03 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c30e48d-7577-4b47-bcf4-3b682418891c")
+	)
+	(junction
+		(at 113.03 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2140706-4adc-4882-ab4d-1cde9cb7c193")
+	)
+	(junction
+		(at 113.03 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b986c076-44a4-4db0-9375-01841c533940")
+	)
+	(junction
+		(at 113.03 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd308396-4ce4-480f-889a-f7087fb74082")
+	)
+	(junction
+		(at 113.03 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "beeccc6b-1989-4012-a90e-41777288af59")
+	)
+	(junction
+		(at 113.03 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf0ef8d0-9b40-40ce-a314-43091c8daa96")
+	)
+	(junction
+		(at 113.03 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8a95bf7-d631-49b2-b986-3558e061d9e2")
+	)
+	(wire
+		(pts
+			(xy 113.03 176.53) (xy 113.03 179.07)
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
+<<<<<<< HEAD
 		(uuid "05303ff0-e933-4d62-b3c1-90fe1f3f04a5")
 	)
 	(wire
 		(pts
 			(xy 104.14 120.65) (xy 101.6 120.65)
+=======
+		(uuid "082bdb66-f03e-4193-9ffc-31f597936618")
+	)
+	(wire
+		(pts
+			(xy 113.03 173.99) (xy 113.03 176.53)
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
+<<<<<<< HEAD
 		(uuid "269fe894-86ec-4c0c-87e3-bb37f869445b")
 	)
 	(wire
 		(pts
 			(xy 101.6 113.03) (xy 101.6 115.57)
+=======
+		(uuid "0d305660-58e3-47f3-9799-ee81a1e0aa34")
+	)
+	(wire
+		(pts
+			(xy 113.03 168.91) (xy 113.03 171.45)
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
+<<<<<<< HEAD
 		(uuid "2f26c6e0-1bcf-48f8-b8e4-8574d48858b4")
+=======
+		(uuid "16174ffd-5f89-4f54-aedf-750cb65f1259")
+	)
+	(wire
+		(pts
+			(xy 113.03 148.59) (xy 113.03 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a0bb859-9c59-40ee-a4ce-e83fc51ef01a")
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 	)
 	(wire
 		(pts
@@ -2355,6 +2449,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 158.75) (xy 113.03 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7244c292-44e6-49e6-9dac-a4101d965156")
+	)
+	(wire
+		(pts
 			(xy 209.55 31.75) (xy 224.79 31.75)
 		)
 		(stroke
@@ -2365,33 +2469,77 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 118.11) (xy 101.6 118.11)
+=======
+			(xy 113.03 163.83) (xy 113.03 166.37)
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
+<<<<<<< HEAD
 		(uuid "9a89844f-b355-4913-b697-bea75fdd513b")
 	)
 	(wire
 		(pts
 			(xy 101.6 118.11) (xy 101.6 115.57)
+=======
+		(uuid "8a91cf05-2708-4d99-aa3d-d99533c78814")
+	)
+	(wire
+		(pts
+			(xy 113.03 161.29) (xy 113.03 163.83)
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
+<<<<<<< HEAD
 		(uuid "9fdbb27a-c24f-4bf0-ad89-738f68afa70d")
 	)
 	(wire
 		(pts
 			(xy 101.6 120.65) (xy 101.6 123.19)
+=======
+		(uuid "91945b70-88b4-42f3-b57a-97ec9c98e6d4")
+	)
+	(wire
+		(pts
+			(xy 113.03 156.21) (xy 113.03 158.75)
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
+<<<<<<< HEAD
 		(uuid "bdeac9bd-e12b-4d4c-9315-0b615997d2cc")
+=======
+		(uuid "98a38a91-d89c-4007-9c10-45a5236c2d1d")
+	)
+	(wire
+		(pts
+			(xy 113.03 166.37) (xy 113.03 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b56387bd-4717-4843-b574-f1336907912e")
+	)
+	(wire
+		(pts
+			(xy 113.03 171.45) (xy 113.03 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bef6b0cd-e429-455d-9579-c69304df32da")
+>>>>>>> 986db0919b76a90e0bc46125e838555cc92474b2
 	)
 	(wire
 		(pts
@@ -2641,7 +2789,7 @@
 	)
 	(global_label "gnd"
 		(shape input)
-		(at 121.92 151.13 270)
+		(at 130.81 194.31 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2651,7 +2799,7 @@
 		)
 		(uuid "b1b30526-3e94-4824-aeb7-50ba318b7276")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.92 157.5622 90)
+			(at 130.81 200.7422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3118,7 +3266,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Module:Arduino_Nano_RP2040_Connect")
-		(at 121.92 125.73 0)
+		(at 130.81 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3127,7 +3275,7 @@
 		(fields_autoplaced yes)
 		(uuid "bd7b6b40-2759-4b40-a92d-39720848a29e")
 		(property "Reference" "A2"
-			(at 121.92 97.79 0)
+			(at 130.81 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3135,7 +3283,7 @@
 			)
 		)
 		(property "Value" "Arduino_Nano_RP2040_Connect"
-			(at 121.92 100.33 0)
+			(at 130.81 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3143,7 +3291,7 @@
 			)
 		)
 		(property "Footprint" "Module:Arduino_Nano"
-			(at 135.636 159.766 0)
+			(at 144.526 202.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3153,7 +3301,7 @@
 			)
 		)
 		(property "Datasheet" "https://docs.arduino.cc/resources/datasheets/ABX00053-datasheet.pdf"
-			(at 161.036 157.226 0)
+			(at 169.926 200.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3162,7 +3310,7 @@
 			)
 		)
 		(property "Description" "Arduino Nano board based on the RP2040 microcontroller with a dual-core 133 MHz ARM Cortex-M0+ processor, 264 kB SRAM, and up to 16 MB flash memory. Operates at 3.3V, with 5V Micro USB input and 4-20V VIN. Features Wi-Fi®, Bluetooth® LE, digital and analog pins, and supports SPI, I2C, UART, and PIO. Includes a 6-axis IMU, RGB LED, microphone, and cryptographic chip for secure communication."
-			(at 330.962 154.686 0)
+			(at 339.852 197.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
